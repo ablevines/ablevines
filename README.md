@@ -3,7 +3,7 @@
 <!-- My name is Abby Levines
 **ablevines/ablevines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 - I am interested in learning more about Javascript
 - 📫 How to reach me: email: ablevines@augusta.edu
 - 😄 Pronouns: she/her
